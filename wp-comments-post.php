@@ -1,0 +1,1 @@
+/var/www/html/wordpress/wp-comments-post.php
