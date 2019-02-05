@@ -6753,14 +6753,14 @@ body #content .wpb_text_column .mgt-button:last-child {
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
-    height: 40%;
+    height: 100%;
     width: 100%;
     position: absolute;
 }
 .portfolio-item-block .portfolio-item-bg {
     position: absolute;
     width: 100%;
-    height: 40%;
+    height: 100%;
 }
 .portfolio-item-block h4.title {
     font-size: 20px;
